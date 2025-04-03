@@ -1,5 +1,25 @@
 ## Hi there 👋
 
+Hello! Welcome to my GitHub profile! I am a electrical & computer engineering major.
+
+**About Me**
+In the works...
+
+**Technical Skills**
+In the works...
+
+**Technical Skills**
+In the works...
+
+**Recent Projects**
+In the works...
+
+**Highlights**
+In the works...
+
+**Get in Touch**
+In the works...
+
 <!--
 **myang1121/myang1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
