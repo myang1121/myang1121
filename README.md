@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello! Welcome to my GitHub profile! I’m an undergraduate junior in **Electrical & Computer Engineering** (minor in Mechanical Engineering) at Cornell University.  
+Welcome to my GitHub profile! I’m an undergraduate junior in **Electrical & Computer Engineering** (minor in Mechanical Engineering) at Cornell University.  
 
 ## About Me ⭐️
 I have hands‑on experience in:
@@ -59,7 +59,8 @@ I want to build **robots** that enhance everyday life for elders, children, and 
 
 
 ## Get in Touch 📮
-- ✉️  yangmichelle1121@gmail.com
+- ✉️  yangmichelle1121@gmail.com (personal)
+- ✉️  my394@cornell.edu (academic)
 - 🔗  [GitHub](https://github.com/myang1121) | 📷  [LinkedIn](www.linkedin.com/in/michelle-yang-63080225b)  
 <!--
 **myang1121/myang1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
