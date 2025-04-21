@@ -8,14 +8,14 @@ I have hands‑on experience in:
 - **Embedded C/C++ programming** on microcontrollers (FRDM‑KL46Z, Arduino UNO, etc.)
 - **Linux‑based systems** & **RISC‑V architectures**
 
-## Leadership 🏆
+## Leadership ☀️
 As the **team lead** of Solar Panel Reboot, a student project team at Cornell University, I aspire to become an engineer who designs technologies that matter, with sustainability at heart. 
 
 During my three years with Solar Panel Reboot, I oversaw the design and led the execution of the refurbishment project. I represented my team and presented our work at the EUCI Solar Panel Recycling Conference, and our project earned the Student Sustainability Award of the Year at our university. 
 
 Following the completion of the refurbishment project last spring, my team shifted our focus to solar panel cooling. Solar panels generate electricity more efficiently in cooler temperatures than in hotter ones, so in regions where sunlight is abundant but temperatures are extreme—such as Africa and the Middle East—the outcomes of our project could prove particularly beneficial. 
 
-My team is currently also building a solar simulator test bench for a PhD student research group currently developing a "digital solar twin" for agrivoltaic applications.
+My team is currently also building a solar simulator test bench for a PhD student research group currently developing a "digital solar twin" for agrivoltaic applications. 
 
 
 ## Technical Skills 🧰
