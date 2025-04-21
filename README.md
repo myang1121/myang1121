@@ -2,31 +2,31 @@
 
 Hello! Welcome to my GitHub profile! I’m an undergraduate junior in **Electrical & Computer Engineering** (minor in Mechanical Engineering) at Cornell University.  
 
-## About Me  
+## About Me ⭐️
 I have hands‑on experience in:
 - **FPGA prototyping & RTL development**
 - **Embedded C/C++ programming** on microcontrollers (FRDM‑KL46Z, Arduino UNO, etc.)
 - **Linux‑based systems** & **RISC‑V architectures**
 
-## Leadership  
+## Leadership 🏆
 As **Team Lead** of the Solar Panel Reboot project, I directed an eight‑to‑eleven‑member team researching panel degradation, building lifetime‑extension profiles for damaged modules, prototyping a solar‑powered art pavilion, and laying the groundwork for a “digital solar twin.” Our work won Cornell’s 2023 Student Sustainability Award and was featured at industry conferences  
 
-## Technical Skills  
+## Technical Skills 🧰
 - **Languages & Frameworks:** C, C++, Java, Python, Verilog, ARM Assembly, MATLAB  
 - **Hardware & Tools:** FPGA, RTL modeling & testing, Embedded Linux, CAD (Fusion 360), PCB design (KiCad)  
 - **Web & Software:** HTML, CSS, JavaScript
 
-## Design & Media  
+## Design & Media 📸
 - **Photography:** Student photographer for Cornell Student & Campus Life and Residence Hall Association  
 - **Graphic Design:** Logos, merchandise, promotional flyers  
 - **Social Media:** Content creation & management  
 - **Tools:** Adobe After Effects, Photoshop, Lightroom Classic, Illustrator  
 
-## Academic Coursework  
+## Academic Coursework 📚
 - Embedded Systems labs  
 - Computer Architecture labs  
 
-## Recent Projects  
+## Recent Projects 🔧🤖
 - **Cube Collecting Robot**  
   Collaborating with two teammates as the “Circuit Breakers,” we designed and built an autonomous robot for the “Cube Craze” competition to collect and stack cubes  
   🔗 [Cube Craze Robot Repo](https://github.com/myang1121/Cube-Craze-Robot-Project)
@@ -36,14 +36,14 @@ As **Team Lead** of the Solar Panel Reboot project, I directed an eight‑to‑e
   🔗 [Tilt‑Car Repo](https://github.com/myang1121/RC-Car-FRDM-KL46Z-Accelerometer-Steering-Project)
   
 
-**Highlights**
+## Highlights 🌟
 _In the works…_  
 
-## Passion & Goals
+## Passion & Goals 🤖💛
 I want to build **robots** that enhance everyday life for elders, children, and those in need. My vision isn’t factory automation, but robots as household members, classroom aides, and trusted companions. Think PARO or Pepper, robots optimized for human interaction, with ability to read emotions, recognize faces, and have conversations. I vision a society where robots and humans co-exist. Like Japanese mangas I read growing up, robots that are protrayed as companions (heros even), performing assigned tasks harmoniously within human society. 
 
 
-## Get in Touch  
+## Get in Touch 📮
 - ✉️  yangmichelle1121@gmail.com
 - 🔗  [GitHub](https://github.com/myang1121) | 📷  [LinkedIn](www.linkedin.com/in/michelle-yang-63080225b)  
 <!--
