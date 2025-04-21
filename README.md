@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello! Welcome to my GitHub profile! I am a electrical & computer engineering major.
+Hello! Welcome to my GitHub profile! I am a electrical & computer engineering major with a minor in mechanical engineering.
 
 **About Me**
 In the works...
