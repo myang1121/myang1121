@@ -24,10 +24,10 @@ My team is currently also building a solar simulator test bench for a PhD studen
 - **Web & Software:** HTML, CSS, JavaScript
 
 ## Language 🌎
-- **Mandarin Chinese** Native  
-- **English** Native
-- **Japanese** 2 years college Japanese, planning to take JLPT N2 in December 2025
-- **French** 3 years high school French
+- **Mandarin Chinese** Native proficiency (spoken & written)
+- **English** Native proficiency (spoken & written)
+- **Japanese** Intermediate proficiency  (2 years college-level), planning to take JLPT N2 in December 2025
+- **French** Advanced Beginner proficiency (3 years high school level)
 
 ## Design & Media 📸
 - **Photography:** Student photographer for Cornell Student & Campus Life and Residence Hall Association  
