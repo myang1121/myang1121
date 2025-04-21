@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m an undergraduate junior in **Electrical & Co
 I have hands‑on experience in:
 - **FPGA prototyping & RTL development**
 - **Embedded C/C++ programming** on microcontrollers (FRDM‑KL46Z, Arduino UNO, etc.)
-- **Linux‑based systems** & **RISC‑V architectures**
+- **Linux‑based systems** & **RISC‑V architectures** & **ARM Cortex architectures**
 
 ## Leadership ☀️
 As the **team lead** of Solar Panel Reboot, a student project team at Cornell University, I aspire to become an engineer who designs technologies that matter, with sustainability at heart. 
