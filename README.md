@@ -32,8 +32,8 @@ My team is currently also building a solar simulator test bench for a PhD studen
 🌱 _Stay tuned for my photography portfolio website — launching soon!_
 
 ## Academic Coursework 📚
-- 🔗 [Embedded Systems labs](https://github.com/myang1121/Embedded-System)
-- 🔗 [Computer Architecture labs](https://github.com/myang1121/Computer-Architecture)
+- [Embedded Systems labs](https://github.com/myang1121/Embedded-System)
+- [Computer Architecture labs](https://github.com/myang1121/Computer-Architecture)
 
 ## Recent Projects 🔧🤖
 - **Cube Collecting Robot**  
