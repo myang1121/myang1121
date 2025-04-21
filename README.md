@@ -1,4 +1,4 @@
-## Hi there 👋
+## Michelle Yang
 
 Welcome to my GitHub profile! I’m an undergraduate junior in **Electrical & Computer Engineering** (minor in Mechanical Engineering) at Cornell University.  
 
