@@ -59,8 +59,8 @@ I want to build **robots** that enhance everyday life for elders, children, and 
 
 
 ## Get in Touch 📮
-- ✉️  yangmichelle1121@gmail.com (personal)
-- ✉️  my394@cornell.edu (academic)
+- ✉️  yangmichelle1121@gmail.com
+- ✉️  my394@cornell.edu
 - 🔗  [GitHub](https://github.com/myang1121) | 📷  [LinkedIn](www.linkedin.com/in/michelle-yang-63080225b)  
 <!--
 **myang1121/myang1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
