@@ -15,8 +15,7 @@ During my three years with Solar Panel Reboot, I oversaw the design and led the 
 
 Following the completion of the refurbishment project last spring, my team shifted our focus to solar panel cooling. Solar panels generate electricity more efficiently in cooler temperatures than in hotter ones, so in regions where sunlight is abundant but temperatures are extreme—such as Africa and the Middle East—the outcomes of our project could prove particularly beneficial. 
 
-My team is currently also building a solar simulator test bench for a PhD student research group currently developing a "digital solar twin" for agrivoltaic applications. 
-
+Currently, my team is constructing a solar simulator test bench to support a PhD research group developing a digital solar twin for agrivoltaic applications. ​
 
 ## Technical Skills 🧰
 - **Languages & Frameworks:** C, C++, Java, Python, Verilog, ARM Assembly, MATLAB  
