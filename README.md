@@ -23,6 +23,12 @@ My team is currently also building a solar simulator test bench for a PhD studen
 - **Hardware & Tools:** FPGA, RTL modeling & testing, Embedded Linux, CAD (Fusion 360), PCB design (KiCad)  
 - **Web & Software:** HTML, CSS, JavaScript
 
+## Language 🌎
+- **Mandarin Chinese** Native  
+- **English** Native
+- **Japanese** 2 years college Japanese, planning to take JLPT N2 in December 2025
+- **French** 3 years high school French
+
 ## Design & Media 📸
 - **Photography:** Student photographer for Cornell Student & Campus Life and Residence Hall Association  
 - **Graphic Design:** Logos, merchandise, promotional flyers  
