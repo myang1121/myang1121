@@ -30,8 +30,8 @@ My team is currently also building a solar simulator test bench for a PhD studen
 - **Tools:** Adobe After Effects, Photoshop, Lightroom Classic, Illustrator  
 
 ## Academic Coursework 📚
-- Embedded Systems labs  
-- Computer Architecture labs  
+- 🔗 [Embedded Systems labs](https://github.com/myang1121/Embedded-System)
+- 🔗 [Computer Architecture labs](https://github.com/myang1121/Computer-Architecture)
 
 ## Recent Projects 🔧🤖
 - **Cube Collecting Robot**  
