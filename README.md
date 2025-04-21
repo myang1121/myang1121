@@ -9,7 +9,14 @@ I have hands‑on experience in:
 - **Linux‑based systems** & **RISC‑V architectures**
 
 ## Leadership 🏆
-As **Team Lead** of the Solar Panel Reboot project, I directed an eight‑to‑eleven‑member team researching panel degradation, building lifetime‑extension profiles for damaged modules, prototyping a solar‑powered art pavilion, and laying the groundwork for a “digital solar twin.” Our work won Cornell’s 2023 Student Sustainability Award and was featured at industry conferences  
+As the **team lead** of Solar Panel Reboot, a student project team at Cornell University, I aspire to become an engineer who designs technologies that matter, with sustainability at heart. 
+
+During my three years with Solar Panel Reboot, I oversaw the design and led the execution of the refurbishment project. I represented my team and presented our work at the EUCI Solar Panel Recycling Conference, and our project earned the Student Sustainability Award of the Year at our university. 
+
+Following the completion of the refurbishment project last spring, my team shifted our focus to solar panel cooling. Solar panels generate electricity more efficiently in cooler temperatures than in hotter ones, so in regions where sunlight is abundant but temperatures are extreme—such as Africa and the Middle East—the outcomes of our project could prove particularly beneficial. 
+
+My team is currently also building a solar simulator test bench for a PhD student research group currently developing a "digital solar twin" for agrivoltaic applications.
+
 
 ## Technical Skills 🧰
 - **Languages & Frameworks:** C, C++, Java, Python, Verilog, ARM Assembly, MATLAB  
