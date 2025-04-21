@@ -27,7 +27,9 @@ My team is currently also building a solar simulator test bench for a PhD studen
 - **Photography:** Student photographer for Cornell Student & Campus Life and Residence Hall Association  
 - **Graphic Design:** Logos, merchandise, promotional flyers  
 - **Social Media:** Content creation & management  
-- **Tools:** Adobe After Effects, Photoshop, Lightroom Classic, Illustrator  
+- **Tools:** Adobe After Effects, Photoshop, Lightroom Classic, Illustrator
+
+🌱 _Stay tuned for my photography portfolio website — launching soon!_
 
 ## Academic Coursework 📚
 - 🔗 [Embedded Systems labs](https://github.com/myang1121/Embedded-System)
