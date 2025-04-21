@@ -41,7 +41,7 @@ My team is currently also building a solar simulator test bench for a PhD studen
 - [Embedded Systems labs](https://github.com/myang1121/Embedded-System)
 - [Computer Architecture labs](https://github.com/myang1121/Computer-Architecture)
 
-## Recent Projects 🔧🤖
+## Recent Projects 🚀
 - **Cube Collecting Robot**  
   Collaborating with two teammates as the “Circuit Breakers,” we designed and built an autonomous robot for the “Cube Craze” competition to collect and stack cubes  
   🔗 [Cube Craze Robot Repo](https://github.com/myang1121/Cube-Craze-Robot-Project)
@@ -54,7 +54,7 @@ My team is currently also building a solar simulator test bench for a PhD studen
 ## Highlights 🌟
 _In the works…_  
 
-## Passion & Goals 🤖💛
+## Passion & Goals 🔧🤖
 I want to build **robots** that enhance everyday life for elders, children, and those in need. My vision isn’t factory automation, but robots as household members, classroom aides, and trusted companions. Think PARO or Pepper, robots optimized for human interaction, with ability to read emotions, recognize faces, and have conversations. I vision a society where robots and humans co-exist. Like Japanese mangas I read growing up, robots that are protrayed as companions (heros even), performing assigned tasks harmoniously within human society. 
 
 
